@@ -1,0 +1,7 @@
+html,
+body {
+  margin: 20px;
+  
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
